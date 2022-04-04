@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/mustafapir/CV.git
+	branch = master
