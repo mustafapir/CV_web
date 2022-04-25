@@ -6,10 +6,11 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: Ocean
+  theme_night: Mr Robot
+  font: Native
   font_size: L
+
 
 # SEO
 
@@ -41,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Mustafa S. Pir. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -70,7 +71,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/mustafapir/CV_web'
     content_dir: content
     branch: master
   avatar:
