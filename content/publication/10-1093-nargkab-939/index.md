@@ -6,7 +6,7 @@ title: 'ConVarT: a search engine for matching human genetic variants with varian
 subtitle: ''
 summary: ''
 authors:
-- Mustafa S Pir
+- **Mustafa S Pir**
 - Halil I Bilgin
 - Ahmet Sayici
 - Fatih Coşkun
